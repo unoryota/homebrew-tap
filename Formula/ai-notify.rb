@@ -1,8 +1,8 @@
 class AiNotify < Formula
   desc "Notifications for terminal AI coding agents, with one mute switch for all"
   homepage "https://github.com/unoryota/ai-notify"
-  url "https://registry.npmjs.org/ai-notify/-/ai-notify-0.10.9.tgz"
-  sha256 "ccd5af4f82900424272cf127886c3737babbdaa9229c23c8fc6caf3060a9753e"
+  url "https://registry.npmjs.org/ai-notify/-/ai-notify-0.10.10.tgz"
+  sha256 "19c8ecf20835e65089407ca98936b4015a9e247775e395cfc6b7b55d835dfdfc"
   license "MIT"
 
   depends_on "node"
